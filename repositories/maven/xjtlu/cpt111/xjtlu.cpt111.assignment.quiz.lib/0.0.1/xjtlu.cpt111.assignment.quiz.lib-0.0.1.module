@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "xjtlu.cpt111",
+    "module": "xjtlu.cpt111.assignment.quiz.lib",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "xjtlu.cpt111.assignment.quiz.lib-0.0.1.jar",
+          "url": "xjtlu.cpt111.assignment.quiz.lib-0.0.1.jar",
+          "size": 19499,
+          "sha512": "7a24cdd7138d4854b99a634dcbd12a99f4e054d38315d3ab72ff99ecf2e91658f8aaf906c4be8293d4e2ff3b7197c5c0d8c966605e9bdf12b0e9324ac0288aff",
+          "sha256": "1b0f11f66152f76b7297b122f26a1a990e3b61fcde7947c2ef706872ff99f43a",
+          "sha1": "eefca01264fb38a4ef2e345e197a082cad20ae82",
+          "md5": "9008abc5d9dafe6f8cac3aaa34239292"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "xjtlu.cpt111.assignment.quiz.lib-0.0.1.jar",
+          "url": "xjtlu.cpt111.assignment.quiz.lib-0.0.1.jar",
+          "size": 19499,
+          "sha512": "7a24cdd7138d4854b99a634dcbd12a99f4e054d38315d3ab72ff99ecf2e91658f8aaf906c4be8293d4e2ff3b7197c5c0d8c966605e9bdf12b0e9324ac0288aff",
+          "sha256": "1b0f11f66152f76b7297b122f26a1a990e3b61fcde7947c2ef706872ff99f43a",
+          "sha1": "eefca01264fb38a4ef2e345e197a082cad20ae82",
+          "md5": "9008abc5d9dafe6f8cac3aaa34239292"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "xjtlu.cpt111.assignment.quiz.lib-0.0.1-javadoc.jar",
+          "url": "xjtlu.cpt111.assignment.quiz.lib-0.0.1-javadoc.jar",
+          "size": 4224950,
+          "sha512": "0ccf95cc12599a16157b95dbcb02e700d61b400c4a3cdfe26dd71e849f3725f97b019fcd61a31905a6e0c43f10b63138168d321adac6686dec3d38efbe864fbf",
+          "sha256": "e5080062dfd6e6c7f9eb52af0ba3d01e2849117caa94bdfbffb29730d2146bdd",
+          "sha1": "90fdd46d5918c767e7b0af784a49a4c95265f292",
+          "md5": "d1b5486fba319cd2e677f6936e6242f8"
+        }
+      ]
+    }
+  ]
+}

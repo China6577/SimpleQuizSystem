@@ -1,0 +1,16 @@
+username: Kamado Tanjiro, topic: Computer Science, score: 90, count: 1
+username: Kamado Tanjiro, topic: Computer Science, score: 100, count: 2
+username: Kamado Tanjiro, topic: Computer Science, score: 80, count: 3
+username: Kamado Tanjiro, topic: Electronic Engineering, score: 100, count: 1
+username: Kamado Tanjiro, topic: Computer Science, score: 20, count: 4
+username: Kamado Nezuko, topic: Computer Science, score: 20, count: 1
+username: Agatsuma Zenitsu, topic: Computer Science, score: 30, count: 1
+username: Hashibira Inosuke, topic: Electronic Engineering, score: 40, count: 1
+username: Tsuyuri Kanao, topic: Electronic Engineering, score: 20, count: 1
+username: Tomioka Giyo, topic: Electronic Engineering, score: 90, count: 1
+username: Kanroji Mitsuri, topic: English, score: 15, count: 1
+username: Iguro Obanai, topic: English, score: 10, count: 1
+username: Shinazugawa Sanemi, topic: English, score: 55, count: 1
+username: Himejima Gyomei, topic: Mathematics, score: 90, count: 1
+username: Tokito Muichiro, topic: Mathematics, score: 20, count: 1
+username: Kocho Shinobu, topic: Mathematics, score: 30, count: 1
